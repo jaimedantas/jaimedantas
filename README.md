@@ -6,10 +6,11 @@
 
 ## Hi 👋, 
 
-I'm Jaime Dantas, an Cloud Computer Specialist.
+I'm Jaime Dantas, a Cloud Computer Specialist.
 
 
 ### Successful Projects
 
 
-* [Jaime Dantas](https://jaimedantas.com/) -  _Initial work, development, test, documentation_
+* [FIIZ TAX](https://fiiztax.com/) -  _automated system for financial transaction tax calculation in the Brazilian stock exchange B3 with more than 100 active users_
+* [DC Control](https://https://medium.com/reverse-engineering/dc-control-a-robust-low-cost-snmp-agent-for-data-centers-f4a3d7149389) -  _data center environment and access control with several successful applications_
