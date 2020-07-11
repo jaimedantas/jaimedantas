@@ -6,7 +6,7 @@
 
 ## Hi 👋, 
 
-I'm Jaime Dantas, a Cloud Computing Specialist.
+I'm Jaime Dantas, a cloud computing specialist.
 
 
 ### Successful Projects
