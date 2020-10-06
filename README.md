@@ -7,6 +7,7 @@
 ## Hi 👋, 
 
 I'm Jaime Dantas, a cloud computing specialist.
+![Jaime's github stats](https://github-readme-stats.vercel.app/api?username=jaimedantas&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true&custom_title=GitHub%20Stats&icon_color=000000&title_color=000000)
 
 
 ### Successful Projects
@@ -18,17 +19,4 @@ I'm Jaime Dantas, a cloud computing specialist.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The five reasons why distributed architectures powered by Kafka overpass classical software designs](https://medium.com/reverse-engineering/the-five-reasons-why-distributed-architectures-powered-by-kafka-overpass-classical-software-designs-e10726a6c3be?source=rss----84bd90b2aefe---4)
-- [Water rocket with automatic parachute deployment using recycling materials](https://medium.com/reverse-engineering/water-rocket-with-automatic-parachute-deployment-using-recycling-materials-aeeb5897347a?source=rss----84bd90b2aefe---4)
-- [DC Control: a robust low-cost SNMP agent for data centers](https://medium.com/reverse-engineering/dc-control-a-robust-low-cost-snmp-agent-for-data-centers-f4a3d7149389?source=rss----84bd90b2aefe---4)
-- [How to host your Angular APP with Firebase for FREE in just 2 minutes](https://medium.com/reverse-engineering/how-to-host-your-angular-app-with-firebase-for-free-in-just-2-minutes-f21c88e29802?source=rss----84bd90b2aefe---4)
-- [How I created a multi-cloud distributed solution with AWS and Azure free tier](https://medium.com/reverse-engineering/how-i-created-a-multi-cloud-distributed-solution-with-aws-and-azure-free-tier-f64eb3e0c2da?source=rss----84bd90b2aefe---4)
-- [About REVERSE ENGINEERING](https://medium.com/reverse-engineering/about-reverse-engineering-351b47a46031?source=rss----84bd90b2aefe---4)
-- [Audio player with voice control using Arduino: a frequency analyzer based on the Goertzel algorithm](https://medium.com/reverse-engineering/audio-player-with-voice-control-using-arduino-a-frequency-analyzer-based-on-the-goertzel-algorithm-6f79766e37ad?source=rss----84bd90b2aefe---4)
-- [Is the performance of USB 2.0 different from 10/100 Ethernet in Embedded Systems?](https://medium.com/reverse-engineering/is-the-performance-of-usb-2-0-different-from-10-100-ethernet-in-embedded-systems-11da1eddcb19?source=rss----84bd90b2aefe---4)
-- [Process vs. thread: which one can handle tasks better?](https://medium.com/reverse-engineering/process-vs-thread-which-one-can-handle-tasks-better-264fc1188fb6?source=rss----84bd90b2aefe---4)
-- [Hosting your own blog in just a few steps using a Raspberry Pi](https://medium.com/reverse-engineering/hosting-your-own-blog-in-just-a-few-steps-using-a-raspberry-pi-ad74463c2d2?source=rss----84bd90b2aefe---4)
 <!-- BLOG-POST-LIST:END -->
-
-![Jaime's github stats](https://github-readme-stats.vercel.app/api?username=jaimedantas&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true)
-
