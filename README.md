@@ -19,3 +19,6 @@ I'm Jaime Dantas, a cloud computing specialist.
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaimedantas&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true)
+
