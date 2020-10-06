@@ -8,6 +8,8 @@
 
 I'm Jaime Dantas, a cloud computing specialist.
 </br>
+</br>
+</br>
 ![Jaime's github stats](https://github-readme-stats.vercel.app/api?username=jaimedantas&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits=true&custom_title=GitHub%20Stats&icon_color=000000&title_color=000000)
 
 
