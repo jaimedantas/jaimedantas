@@ -20,11 +20,11 @@ I'm Jaime Dantas, a cloud computing specialist.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [In-depth analysis of the regularized least-squares algorithm over the empirical risk minimization](https://towardsdatascience.com/in-depth-analysis-of-the-regularized-least-squares-algorithm-over-the-empirical-risk-minimization-729a1433447f?source=rss-6ccb66a9e501------2)
 - [The five reasons why distributed architectures powered by Kafka overpass classical software designs](https://medium.com/reverse-engineering/the-five-reasons-why-distributed-architectures-powered-by-kafka-overpass-classical-software-designs-e10726a6c3be?source=rss-6ccb66a9e501------2)
 - [Water rocket with automatic parachute deployment using recycling materials](https://medium.com/reverse-engineering/water-rocket-with-automatic-parachute-deployment-using-recycling-materials-aeeb5897347a?source=rss-6ccb66a9e501------2)
 - [DC Control: a robust low-cost SNMP agent for data centers](https://medium.com/reverse-engineering/dc-control-a-robust-low-cost-snmp-agent-for-data-centers-f4a3d7149389?source=rss-6ccb66a9e501------2)
 - [How to host your Angular APP with Firebase for FREE in just 2 minutes](https://medium.com/reverse-engineering/how-to-host-your-angular-app-with-firebase-for-free-in-just-2-minutes-f21c88e29802?source=rss-6ccb66a9e501------2)
 - [How I created a multi-cloud distributed solution with AWS and Azure free tier](https://medium.com/reverse-engineering/how-i-created-a-multi-cloud-distributed-solution-with-aws-and-azure-free-tier-f64eb3e0c2da?source=rss-6ccb66a9e501------2)
 - [About REVERSE ENGINEERING](https://medium.com/reverse-engineering/about-reverse-engineering-351b47a46031?source=rss-6ccb66a9e501------2)
-- [Audio player with voice control using Arduino: a frequency analyzer based on the Goertzel algorithm](https://medium.com/reverse-engineering/audio-player-with-voice-control-using-arduino-a-frequency-analyzer-based-on-the-goertzel-algorithm-6f79766e37ad?source=rss-6ccb66a9e501------2)
 <!-- BLOG-POST-LIST:END -->
