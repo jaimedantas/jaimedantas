@@ -26,5 +26,4 @@ I'm Jaime Dantas, a cloud computing specialist.
 - [DC Control: a robust low-cost SNMP agent for data centers](https://medium.com/reverse-engineering/dc-control-a-robust-low-cost-snmp-agent-for-data-centers-f4a3d7149389?source=rss-6ccb66a9e501------2)
 - [How to host your Angular APP with Firebase for FREE in just 2 minutes](https://medium.com/reverse-engineering/how-to-host-your-angular-app-with-firebase-for-free-in-just-2-minutes-f21c88e29802?source=rss-6ccb66a9e501------2)
 - [How I created a multi-cloud distributed solution with AWS and Azure free tier](https://medium.com/reverse-engineering/how-i-created-a-multi-cloud-distributed-solution-with-aws-and-azure-free-tier-f64eb3e0c2da?source=rss-6ccb66a9e501------2)
-- [About REVERSE ENGINEERING](https://medium.com/reverse-engineering/about-reverse-engineering-351b47a46031?source=rss-6ccb66a9e501------2)
 <!-- BLOG-POST-LIST:END -->
