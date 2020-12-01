@@ -20,10 +20,10 @@ I'm Jaime Dantas, a cloud computing specialist.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stochastic gradient descent implementation for SoftSVM](https://towardsdatascience.com/stochastic-gradient-descent-implementation-for-softsvm-de036d1001b8?source=rss-6ccb66a9e501------2)
 - [Reasons why surrogate loss functions are pivotal for classification in machine learning](https://towardsdatascience.com/reasons-why-surrogate-loss-functions-are-pivotal-for-classification-in-machine-learning-e33974ce6d29?source=rss-6ccb66a9e501------2)
 - [The importance of k-fold cross-validation for model prediction in machine learning](https://towardsdatascience.com/the-importance-of-k-fold-cross-validation-for-model-prediction-in-machine-learning-4709d3fed2ef?source=rss-6ccb66a9e501------2)
 - [In-depth analysis of the regularized least-squares algorithm over the empirical risk minimization](https://towardsdatascience.com/in-depth-analysis-of-the-regularized-least-squares-algorithm-over-the-empirical-risk-minimization-729a1433447f?source=rss-6ccb66a9e501------2)
 - [The five reasons why distributed architectures powered by Kafka overpass classical software designs](https://medium.com/reverse-engineering/the-five-reasons-why-distributed-architectures-powered-by-kafka-overpass-classical-software-designs-e10726a6c3be?source=rss-6ccb66a9e501------2)
 - [Water rocket with automatic parachute deployment using recycling materials](https://medium.com/reverse-engineering/water-rocket-with-automatic-parachute-deployment-using-recycling-materials-aeeb5897347a?source=rss-6ccb66a9e501------2)
-- [DC Control: a robust low-cost SNMP agent for data centers](https://medium.com/reverse-engineering/dc-control-a-robust-low-cost-snmp-agent-for-data-centers-f4a3d7149389?source=rss-6ccb66a9e501------2)
 <!-- BLOG-POST-LIST:END -->
