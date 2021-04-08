@@ -20,6 +20,7 @@ I'm Jaime Dantas, a cloud computing specialist.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating your very first microservice with Micronaut and Kotlin](https://medium.com/reverse-engineering/creating-your-very-first-microservice-with-micronaut-and-kotlin-9be6be4a58d5?source=rss-6ccb66a9e501------2)
 - [Stochastic gradient descent implementation for SoftSVM](https://towardsdatascience.com/stochastic-gradient-descent-implementation-for-softsvm-de036d1001b8?source=rss-6ccb66a9e501------2)
 - [Reasons why surrogate loss functions are pivotal for classification in machine learning](https://towardsdatascience.com/reasons-why-surrogate-loss-functions-are-pivotal-for-classification-in-machine-learning-e33974ce6d29?source=rss-6ccb66a9e501------2)
 - [The importance of k-fold cross-validation for model prediction in machine learning](https://towardsdatascience.com/the-importance-of-k-fold-cross-validation-for-model-prediction-in-machine-learning-4709d3fed2ef?source=rss-6ccb66a9e501------2)
