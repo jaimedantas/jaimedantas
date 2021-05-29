@@ -26,5 +26,4 @@ I'm Jaime Dantas, a cloud computing specialist.
 - [The importance of k-fold cross-validation for model prediction in machine learning](https://towardsdatascience.com/the-importance-of-k-fold-cross-validation-for-model-prediction-in-machine-learning-4709d3fed2ef?source=rss-6ccb66a9e501------2)
 - [In-depth analysis of the regularized least-squares algorithm over the empirical risk minimization](https://towardsdatascience.com/in-depth-analysis-of-the-regularized-least-squares-algorithm-over-the-empirical-risk-minimization-729a1433447f?source=rss-6ccb66a9e501------2)
 - [The five reasons why distributed architectures powered by Kafka overpass classical software designs](https://medium.com/reverse-engineering/the-five-reasons-why-distributed-architectures-powered-by-kafka-overpass-classical-software-designs-e10726a6c3be?source=rss-6ccb66a9e501------2)
-- [Water rocket with automatic parachute deployment using recycling materials](https://medium.com/reverse-engineering/water-rocket-with-automatic-parachute-deployment-using-recycling-materials-aeeb5897347a?source=rss-6ccb66a9e501------2)
 <!-- BLOG-POST-LIST:END -->
