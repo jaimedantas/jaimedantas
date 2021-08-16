@@ -20,6 +20,7 @@ I'm Jaime Dantas, a cloud computing specialist.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Differential privacy and k-anonymity for machine learning](https://towardsdatascience.com/differential-privacy-and-k-anonymity-for-machine-learning-fbb416f32b6?source=rss-6ccb66a9e501------2)
 - [Creating your very first microservice with Micronaut and Kotlin](https://medium.com/reverse-engineering/creating-your-very-first-microservice-with-micronaut-and-kotlin-9be6be4a58d5?source=rss-6ccb66a9e501------2)
 - [Stochastic gradient descent implementation for SoftSVM](https://towardsdatascience.com/stochastic-gradient-descent-implementation-for-softsvm-de036d1001b8?source=rss-6ccb66a9e501------2)
 - [Reasons why surrogate loss functions are pivotal for classification in machine learning](https://towardsdatascience.com/reasons-why-surrogate-loss-functions-are-pivotal-for-classification-in-machine-learning-e33974ce6d29?source=rss-6ccb66a9e501------2)
@@ -29,5 +30,4 @@ I'm Jaime Dantas, a cloud computing specialist.
 - [Water rocket with automatic parachute deployment using recycling materials](https://medium.com/reverse-engineering/water-rocket-with-automatic-parachute-deployment-using-recycling-materials-aeeb5897347a?source=rss-6ccb66a9e501------2)
 - [DC Control: a robust low-cost SNMP agent for data centers](https://medium.com/reverse-engineering/dc-control-a-robust-low-cost-snmp-agent-for-data-centers-f4a3d7149389?source=rss-6ccb66a9e501------2)
 - [How to host your Angular APP with Firebase for FREE in just 2 minutes](https://medium.com/reverse-engineering/how-to-host-your-angular-app-with-firebase-for-free-in-just-2-minutes-f21c88e29802?source=rss-6ccb66a9e501------2)
-- [How I created a multi-cloud distributed solution with AWS and Azure free tier](https://medium.com/reverse-engineering/how-i-created-a-multi-cloud-distributed-solution-with-aws-and-azure-free-tier-f64eb3e0c2da?source=rss-6ccb66a9e501------2)
 <!-- BLOG-POST-LIST:END -->
